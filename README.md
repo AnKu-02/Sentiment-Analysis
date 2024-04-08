@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 
 ## Overview
-This project utilizes the `BERT (Bidirectional Encoder Representations from Transformers)` model for sentiment analysis on Yelp reviews. By leveraging the `transformers` library and BERT's pre-trained models, we can infer the sentiment behind each review - ranging from highly negative to highly positive. This analysis aims to automate the process of understanding customer feedback, which can be invaluable for businesses looking to improve their services or products.
+This project utilizes the `BERT` (Bidirectional Encoder Representations from Transformers) model for sentiment analysis on Yelp reviews. By leveraging the `transformers` library and BERT's pre-trained models, we can infer the sentiment behind each review - ranging from highly negative to highly positive. This analysis aims to automate the process of understanding customer feedback, which can be invaluable for businesses looking to improve their services or products.
 
 ## Installation
 First, ensure you have Python installed, then install the required libraries.
